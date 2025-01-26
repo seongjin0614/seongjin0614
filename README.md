@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" src="https://github.com/seongin0614/seongin0614/blob/master/logo_unscreen.gif" />
+  <img width="800px" src="https://github.com/user-attachments/assets/885ec1fd-7542-4649-a9ff-d66ae0ac57a6" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
