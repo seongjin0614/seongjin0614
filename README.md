@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:tjtjdwls0614@gmail.com">
-    <img src="https://img.shields.io/badge/seongin0614@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
   <a href="https://www.instagram.com/_hahahoho___/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
